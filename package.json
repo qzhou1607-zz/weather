@@ -1,0 +1,27 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qzhou1607/weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qzhou1607/weather/issues"
+  },
+  "homepage": "https://github.com/qzhou1607/weather#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "forecastio": "^1.0.2",
+    "path": "^0.12.7",
+    "zippity-do-dah": "0.0.2"
+  }
+}
